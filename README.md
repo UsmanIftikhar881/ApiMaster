@@ -48,7 +48,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 I am using Postman u can use anyone like insomnia
 
-### create user token for create update and delete operation
+### create user token for access
 
 -> (POST)localhost:8000/oauth/token
 
